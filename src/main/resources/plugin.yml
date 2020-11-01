@@ -1,0 +1,7 @@
+name: Paintball
+version: 1.0
+author: Alfie Smith
+api-version: 1.16
+database: true
+main: net.alfiesmith.paintball.Paintball
+description: Paintball minigame plugin made by Alfie Smith
